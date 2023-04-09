@@ -1,5 +1,5 @@
 <?php
-$api_key = '6dfa5e9547964295af63a9e3a33d4b7d';
+$api_key = '#6dfa5e9547964295af63a9e3a33d4b7d';
 
 $url = 'https://newsapi.org/v2/top-headlines?';
 
